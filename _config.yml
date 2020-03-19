@@ -1,5 +1,5 @@
 title: Apple Gradient
-logo: "images/logo.svg" # You can add own logo image.
+logo: "images/logo.png" # You can add own logo image.
 description: Tech blog about all things Apple
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "http://applegradient.com" # The base hostname & protocol for your site, e.g. http://example.com
