@@ -15,7 +15,7 @@ hero-subtitle: For those who love simplicity # Add your hero subtitle
 hero-image: images/14.jpg # Add background image in section hero
 
 # Footer
-footer-image: images/14.jpg # Add background image in footer
+footer-image: images/footergradient.png # Add background image in footer
 
 # Build settings
 markdown: kramdown
