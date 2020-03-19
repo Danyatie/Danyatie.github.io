@@ -35,15 +35,17 @@ $border-color: $light-gray;
 // *****************
 // Typography
 // *****************
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
 $base-font-size: 15px;
 $base-font-style: normal;
 $base-font-variant: normal;
 $base-font-weight: normal;
-$base-font-family: 'Merriweather', serif;
+$base-font-family: 'Bree Serif', serif;
 $base-line-height: 26px;
 
 // Headings
-$heading-font-family: 'Fjalla One', Helvetica Neue, Helvetica, Arial, sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+$heading-font-family: 'Inter', Helvetica Neue, Helvetica, Arial, sans-serif;
 
 $font-size-h1:  36px;
 $font-size-h2:  28px;
